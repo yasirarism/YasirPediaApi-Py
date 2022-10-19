@@ -1,5 +1,5 @@
 # YasirPediaApi-Py
-[![Repo Size](https://img.shields.io/github/repo-size/yasirarism/YasirPediaApi-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![Languages](https://img.shields.io/github/languages/top/yasirarism/YasirPediaApi-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![CodeFactor](https://www.codefactor.io/repository/github/yasirarism/YasirPediaApi-py/badge)](https://www.codefactor.io/repository/github/zYxDevs/wibu-api-py)
+[![Repo Size](https://img.shields.io/github/repo-size/yasirarism/YasirPediaApi-py?style=flat-square)](https://github.com/yasirarism/YasirPediaApi-py)  [![Languages](https://img.shields.io/github/languages/top/yasirarism/YasirPediaApi-py?style=flat-square)](https://github.com/yasirarism/YasirPediaApi-py)  [![CodeFactor](https://www.codefactor.io/repository/github/yasirarism/YasirPediaApi-py/badge)](https://www.codefactor.io/repository/github/yasirarism/YasirPediaApi-py)
 
 _Official Python Wrapper for YasirPedia API._
 
