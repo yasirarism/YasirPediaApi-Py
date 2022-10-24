@@ -14,6 +14,16 @@ pip install yasirpedia-api
 pip install -U yasirpedia-api
 ```
 
+## Features From API:
+1. Google Search (Param q)
+2. TextPro (Param q and url)
+3. KBBI (Param kata)
+4. Layarkaca21 Scraper (Param q)
+5. Terbit21 Scraper (Param q)
+6. IMDB Search (Param q)
+7. Facebook Downloader (Param link)
+
+
 ## Examples:
 _For examples go to [examples dir](https://github.com/yasirarism/YasirPediaApi-py/blob/main/examples)._
 

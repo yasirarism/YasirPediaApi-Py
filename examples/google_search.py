@@ -1,20 +1,19 @@
-from wibuapi import WibuAPI
+from yasirapi import YasirPediaApi
 
+req = YasirPediaApi()
 
-client = WibuAPI()
-
-
-print(client.google("game of thrones"))
+print(client.google("Mengapa cewek susah dimengerti."))
 """
 {
+  "info": "Join telegram channel @YasirPediaChannel for updates.",
   "result": [
     {
-      "title": "...",
       "link": "...",
       "snippet": "...",
+      "title": "...",
     }
   ],
   "success": ...,
-  "creator": "Yoga Pranata"
+  "creator": "Yasir Aris M"
 }
 """

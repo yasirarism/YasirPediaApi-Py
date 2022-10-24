@@ -5,15 +5,15 @@ with open("README.md", "r") as txt:
     long_description = txt.read()
 
 setuptools.setup(
-    name="wibuapi",
+    name="yasirpedia-api",
     version="0.0.6",
-    description="Official Python Wrapper for Wibu API.",
+    description="Official Python Wrapper for YasirPedia API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
-    author="Yoga Pranata",
-    author_email="yoga@zyxdevs.eu.org",
-    url="https://github.com/zYxDevs/wibu-api-py",
+    author="Yasir Aris M",
+    author_email="mail@yasir.eu.org",
+    url="https://github.com/yasirarism/YasirPediaApi-Py",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
