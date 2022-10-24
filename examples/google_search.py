@@ -2,7 +2,7 @@ from yasirapi import YasirPediaApi
 
 req = YasirPediaApi()
 
-print(client.google("Mengapa cewek susah dimengerti."))
+print(req.google("Mengapa cewek susah dimengerti."))
 """
 {
   "info": "Join telegram channel @YasirPediaChannel for updates.",
