@@ -30,7 +30,7 @@ class YasirPediaApi:
         except Exception as e:
             return f"An error occured report on @YasirArisM\n\n{e}"
 
-    def layarkaca21(self, query: str):
+    def lk21(self, query: str):
         try:
             url = f"{self.base_url}/lk21?q={query}"
             response = get(url, timeout=15).json()
